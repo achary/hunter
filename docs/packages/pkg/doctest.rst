@@ -2,7 +2,7 @@
 
     doctest
 
-.. index:: unsorted ; doctest
+.. index:: testing ; doctest
 
 .. _pkg.doctest:
 
